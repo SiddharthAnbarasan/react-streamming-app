@@ -1,1 +1,1 @@
-# react-video-streamming-app
+# react-streamming-app
